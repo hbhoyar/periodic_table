@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cell {
+  border: 4px;
+}
+
+.defaultType {
+  background-color: aqua;
+}
+
+.gas {
+  background-color: orange;
+}
+
+.metal {
+  background-color: rgb(20, 23, 202);
+}
